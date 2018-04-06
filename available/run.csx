@@ -1,4 +1,5 @@
 #r "Newtonsoft.Json"
+#r "Microsoft.AspNetCore"
 
 using System.Net;
 using Microsoft.AspNetCore.Mvc;
